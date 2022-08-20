@@ -8,6 +8,8 @@ System.out.println("order is "+a);
 	
 	private void greensOmr(String a,int b) {
 System.out.println("type is "+a+"\n"+"number is "+b);
+System.out.println("jaya");
+
 	}
 	public static void main(String[] args) {
 		GreensTech g=new GreensTech();
